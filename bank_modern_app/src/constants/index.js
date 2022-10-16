@@ -3,19 +3,19 @@ import { people01, people02, people03, facebook, instagram, linkedin, twitter, a
 export const navLinks = [
   {
     id: "home",
-    title: "Home",
+    title: "Inicio",
   },
   {
     id: "features",
-    title: "Features",
+    title: "Caracteristicas",
   },
   {
     id: "product",
-    title: "Product",
+    title: "Producto",
   },
   {
     id: "clients",
-    title: "Clients",
+    title: "Clientes",
   },
 ];
 
@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Recompensas",
     content:
       "The best credit cards offer some tantalizing combinations of promotions and prizes",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "100% Segura",
     content:
       "We take proactive steps make sure your information and transactions are secure.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Transferencia de saldo",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Una tarjeta de crédito de transferencia de saldo puede ahorrarle mucho dinero en cargos por intereses.",
   },
 ];
 
@@ -47,25 +47,25 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
-    title: "Founder & Leader",
+      "'Si no tienes plata no tienes razon'. El Dinero te llevará a donde quieras, pero no te reemplazará como conductor..",
+    name: "Glenn Dixon",
+    title: "CEO. Fundador",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
-    title: "Founder & Leader",
+      "El dinero te hace la vida más fácil. Si tienes suerte de tenerlo, tienes suerte pues y que se puede hacer pues!.",
+    name: "Steve Makalero",
+    title: "Lider Co-Fundador",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "Por lo general, las personas en el negocio del dinero, las finanzas y el comercio internacional son realmente ricas",
     name: "Kenn Gallagher",
-    title: "Founder & Leader",
+    title: "Ejecutivo de Ventas",
     img: people03,
   },
 ];
@@ -73,24 +73,24 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
-    value: "3800+",
+    title: "Usuarios Activos",
+    value: "1M+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
+    title: "Confiado por las mejores empresas",
     value: "230+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "Transactiones diarias",
+    value: "$30M+",
   },
 ];
 
 export const footerLinks = [
   {
-    title: "Useful Links",
+    title: "Enlaces de interes",
     links: [
       {
         name: "Content",
@@ -115,18 +115,18 @@ export const footerLinks = [
     ],
   },
   {
-    title: "Community",
+    title: "Comunidad",
     links: [
       {
         name: "Help Center",
         link: "https://www.hoobank.com/help-center/",
       },
       {
-        name: "Partners",
+        name: "Socios",
         link: "https://www.hoobank.com/partners/",
       },
       {
-        name: "Suggestions",
+        name: "Sugerencias",
         link: "https://www.hoobank.com/suggestions/",
       },
       {
@@ -134,20 +134,20 @@ export const footerLinks = [
         link: "https://www.hoobank.com/blog/",
       },
       {
-        name: "Newsletters",
+        name: "Boletines",
         link: "https://www.hoobank.com/newsletters/",
       },
     ],
   },
   {
-    title: "Partner",
+    title: "Socios",
     links: [
       {
-        name: "Our Partner",
+        name: "Nuestros Socios",
         link: "https://www.hoobank.com/our-partner/",
       },
       {
-        name: "Become a Partner",
+        name: "Convertirse en Socio",
         link: "https://www.hoobank.com/become-a-partner/",
       },
     ],
