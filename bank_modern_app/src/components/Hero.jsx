@@ -25,7 +25,7 @@ const Hero = () => {
         </div>
 
         <h1 className="font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100.8px] leading-[75px] w-full">
-          de Proxima Generacion.
+          de Ultima Generacion.
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         Nuestro equipo de expertos utilizan la mejor tecnologia para brindarle una tarjeta de crédito
