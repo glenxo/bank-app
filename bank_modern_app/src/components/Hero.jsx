@@ -15,7 +15,7 @@ const Hero = () => {
         </div>
 
         <div className="flex flex-row justify-between items-center w-full">
-          <h1 className="flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[100.8px] leading-[75px]">
+          <h1 className="flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[90.8px] leading-[75px]">
             Una <br className="sm:block hidden" />{" "}
             <span className="text-gradient">Tarjeta</span>{" "}
           </h1>
