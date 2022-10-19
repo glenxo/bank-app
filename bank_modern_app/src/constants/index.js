@@ -25,15 +25,16 @@ export const features = [
     icon: star,
     title: "Recompensas",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
-  },
+    "Las mejor tarjeta de crédito ofreciendo combinaciones tentadoras de promociones y premios",  },
   {
     id: "feature-2",
     icon: shield,
     title: "100% Segura",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Tomamos medidas proactivas para asegurarnos de que su información y sus transacciones estén seguras",
   },
+
+
   {
     id: "feature-3",
     icon: send,
@@ -83,7 +84,7 @@ export const stats = [
   },
   {
     id: "stats-3",
-    title: "Transactiones diarias",
+    title: "Transacciones diarias",
     value: "$30M+",
   },
 ];
