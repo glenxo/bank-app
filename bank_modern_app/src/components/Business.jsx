@@ -22,12 +22,12 @@ const Business = () =>  (
   <section id="features" className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Su Dinero, <br className="sm:block hidden" /> en las
-        mejores Manos.
+        Ud administra su negocio, <br className="sm:block hidden" /> nosotros administramos
+        sus finanzas.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-      Nuestra tarjeta de crédito le permite puede mejorar su vida financiera
-        creando crédito, ganando recompensas y ahorrando dinero. pero con miles
+        Con nuestra tarjeta de crédito puede mejorar su vida financiera 
+        creando crédito, ganando recompensas y ahorrando dinero. pero con cientos
         de comercios afiliados en el mercado.
       </p>
 

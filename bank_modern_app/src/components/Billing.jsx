@@ -14,13 +14,14 @@ const Billing = () => (
 
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Mejor control de sus <br className="sm:block hidden" /> recibos y
-        facturas
+        Mejor control sobre <br className="sm:block hidden" /> sus recibos
+        y facturas
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-      No se preocupe más por los pagos atrasados o las facturas olvidadas, nuestro equipo 
-      se encargará de todo por usted. Entonces, ¿por qué no nos das una oportunidad hoy? 
-      Se sorprenderá lo fácil y sin estrés que puede ser administrar sus finanzas.
+      Con nuestro sistema, puede crear y enviar facturas en segundos, 
+      realizar un seguimiento de los pagos y administrar sus finanzas con facilidad. 
+      Además, nuestro sistema está integrado con su software de contabilidad, 
+      por lo que puede realizar un seguimiento de sus finanzas en un solo lugar.
       </p>
 
       <div className="flex flex-row flex-wrap sm:mt-10 mt-6">

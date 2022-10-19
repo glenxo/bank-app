@@ -44,11 +44,12 @@ export const features = [
   },
 ];
 
+
 export const feedback = [
   {
     id: "feedback-1",
     content:
-      "'Si no tienes "plata" no tienes razon'. El Dinero te llevará a donde quieras, pero no te reemplazará como conductor..",
+      "'Si no tienes plata no tienes razon'. El Dinero te llevará a donde quieras, pero no te reemplazará como conductor..",
     name: "Glenn Dixon",
     title: "CEO. Fundador",
     img: people01,
@@ -98,19 +99,19 @@ export const footerLinks = [
         link: "https://www.hoobank.com/content/",
       },
       {
-        name: "How it Works",
+        name: "Como funciona",
         link: "https://www.hoobank.com/how-it-works/",
       },
       {
-        name: "Create",
+        name: "Crear",
         link: "https://www.hoobank.com/create/",
       },
       {
-        name: "Explore",
+        name: "Explorar",
         link: "https://www.hoobank.com/explore/",
       },
       {
-        name: "Terms & Services",
+        name: "Terminos y Condiciones",
         link: "https://www.hoobank.com/terms-and-services/",
       },
     ],
@@ -119,11 +120,11 @@ export const footerLinks = [
     title: "Comunidad",
     links: [
       {
-        name: "Help Center",
+        name: "Centro de ayuda",
         link: "https://www.hoobank.com/help-center/",
       },
       {
-        name: "Socios",
+        name: "Afiliados",
         link: "https://www.hoobank.com/partners/",
       },
       {
@@ -135,20 +136,20 @@ export const footerLinks = [
         link: "https://www.hoobank.com/blog/",
       },
       {
-        name: "Boletines",
+        name: "Noticias",
         link: "https://www.hoobank.com/newsletters/",
       },
     ],
   },
   {
-    title: "Socios",
+    title: "Afiliados",
     links: [
       {
-        name: "Nuestros Socios",
+        name: "Nuestro Afiliado",
         link: "https://www.hoobank.com/our-partner/",
       },
       {
-        name: "Convertirse en Socio",
+        name: "Sea un Socio Hoy",
         link: "https://www.hoobank.com/become-a-partner/",
       },
     ],
