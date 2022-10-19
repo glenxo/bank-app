@@ -58,8 +58,8 @@ export const feedback = [
     id: "feedback-2",
     content:
       "El dinero te hace la vida más fácil. Si tienes suerte de tenerlo, tienes suerte pues y que se puede hacer pues!.",
-    name: "Steve Makalero",
-    title: "Lider Co-Fundador",
+    name: "Yanina Ayala",
+    title: "Lider Co-Fundadora",
     img: people02,
   },
   {
