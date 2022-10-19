@@ -48,7 +48,7 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "'Si no tienes plata no tienes razon'. El Dinero te llevará a donde quieras, pero no te reemplazará como conductor..",
+      "'Si no tienes "plata" no tienes razon'. El Dinero te llevará a donde quieras, pero no te reemplazará como conductor..",
     name: "Glenn Dixon",
     title: "CEO. Fundador",
     img: people01,
