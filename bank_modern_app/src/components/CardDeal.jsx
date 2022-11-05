@@ -9,7 +9,7 @@ const CardDeal = () => (
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
       Encuentre Ofertas <br className="sm:block hidden" /> de manera
-        mas facil.
+        mucho mas facil.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
       Nunca ha sido tan fácil encontrar una gran oferta en su próxima tarjeta de crédito. 
